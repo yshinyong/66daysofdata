@@ -1,14 +1,10 @@
-# Header 1
-66 Days of Data
+# 66 Days of Data
 
-## Header 2
-Statistics Fundamentals
+## Statistics Fundamentals
 
-### Header 3
-DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
+### DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
 
-### Header 3
-DAY 2: Population and Estimated Parameters
+### DAY 2: Population and Estimated Parameters
 
 - Normal Distribution Exponential Distribution, Gamma Distribution
 - It's very rare to have population data. In statistics, we often estimate the population parameters using samples/some data points. </li>
