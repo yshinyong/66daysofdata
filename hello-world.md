@@ -9,6 +9,8 @@
 - Normal Distribution Exponential Distribution, Gamma Distribution
 ![Image](https://gregorygundersen.com/image/moments/total_mass.png)
 
+Image from https://gregorygundersen.com/blog/2020/04/11/moments/
+
 - It's very rare to have population data. In statistics, we often estimate the population parameters using samples/some data points. 
 - The more data we have, the more confidence we can have in accuracy of the estimates. 
 - **p-values** and **confidence intervals** are often used to quantity the confidence in the estimated parameters 
