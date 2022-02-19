@@ -3,7 +3,7 @@
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
 ### DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
-- ![image](https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png)
+ ![image](https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png)
 _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)_
 - To draw a normal distribution, we need to know:
   1. The avg measurement - tells where the centre of the curve goes
@@ -14,7 +14,7 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 - Normal Distribution Exponential Distribution, Gamma Distribution
 ![Image](https://gregorygundersen.com/image/moments/total_mass.png)
 
-- _Image from https://gregorygundersen.com/blog/2020/04/11/moments/_
+ _Image from https://gregorygundersen.com/blog/2020/04/11/moments/_
 
 - It's very rare to have population data. In statistics, we often estimate the population parameters using samples/some data points. 
 - The more data we have, the more confidence we can have in accuracy of the estimates. 
@@ -22,12 +22,16 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 
 ### DAY 3: Mean, Variance and SD, Statistical Model 
 
- - Formula to calculate, not estimate, the population variance. Firt (Estimated mean x̄ - Population mean μ) for each measurement, square then, add all the terms. Lastly we get the average of the square difference (by dividing nb of measurements, n) 
+ - Formula to calculate, not estimate, the population variance. Firt (Estimated mean x̄ - Population mean μ) for each measurement, square then add all the terms. Lastly we get the average of the square difference (by dividing nb of measurements, n) 
  - The population variance gives values in square. 
  - Population standard deviation = √population variance
- - We almost never hava data to calculate the population variance/SD and always work with smaller samples to perform estimation
+ - We almost never have data to calculate the population variance/SD and always work with smaller samples to perform estimation
  - Estimated population variance: Since we don't know population mean (μ), we use sample mean (x̄). And dividing by n - 1 compensates the fact the we are calcualting difference from the sample mean instead of population mean, otherwise we will consistently underestimate the variance around the population mean, as the difference between data and sample mean are normally smaller than the difference between data and population mean. 
   ![Image](https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png)
--  _Image from https://medium.com/statistical-guess/sample-variance-cbd0a848acfe_
+  _Image from https://medium.com/statistical-guess/sample-variance-cbd0a848acfe_
 
 - What is a model? A model is a way to explore the relationship.
+
+### DAY 4: SAMPLING FROM A DISTRIBUTION, HYPOTHESIS TESTING AND THE NULL HYPOTHESIS 
+- 
+
