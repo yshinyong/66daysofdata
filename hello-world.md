@@ -33,5 +33,11 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 - What is a model? A model is a way to explore the relationship.
 
 ### DAY 4: SAMPLING FROM A DISTRIBUTION, HYPOTHESIS TESTING AND THE NULL HYPOTHESIS 
-- 
+- If there is no preliminary data, there are a lot of possibilities if we were to set hypotheses (e.g. 12h/13h/14h for time to recovers after taking drugs).
+- Null hypothesis is useful when we do not have preliminary data.    
+- The hypotehesis that there is no difference between things is called the **Null Hypothesis**
+
+### DAY 5: ALTERNATIVE HYPOTHESES: MAIN IDEAS
+
+ 
 
