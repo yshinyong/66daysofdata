@@ -38,6 +38,11 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 - The hypotehesis that there is no difference between things is called the **Null Hypothesis**
 
 ### DAY 5: ALTERNATIVE HYPOTHESES: MAIN IDEAS
+- When we have only 2 groups of data, the **Alternative Hypothesis** is the oppositie of **Null Hypothesis**.
+-![image](https://user-images.githubusercontent.com/25703485/154922065-1a61ad0c-7c33-4111-a195-c2d748517414.png)
+_Image from [Alternative Hypotheses: Main Ideas!!!](https://www.youtube.com/watch?v=5koKb5B_YWo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=9)_
+- When we have more than 2 groups of data, we have options for Alternative Hypothesis, we have options on how to set alternative hypothesis and decide which statistical test to use. 
+_![image](https://user-images.githubusercontent.com/25703485/154922356-5d818dc6-f04a-4f12-a501-e51a4976cd40.png)_
 
- 
-
+### DAY 6: P-VALUES: WHAT THEY ARE AND HOW TO INTEPRET THEM, HOW TO CALCULATE P-VALUES 
+- Usinga p-value treshold of 0.00001 means we would only get a False Positive once in every 100,000 experiments. 
