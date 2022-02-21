@@ -45,4 +45,7 @@ _Image from [Alternative Hypotheses: Main Ideas!!!](https://www.youtube.com/watc
 _![image](https://user-images.githubusercontent.com/25703485/154922356-5d818dc6-f04a-4f12-a501-e51a4976cd40.png)_
 
 ### DAY 6: P-VALUES: WHAT THEY ARE AND HOW TO INTEPRET THEM, HOW TO CALCULATE P-VALUES 
+- A p-value is a measure of probability that an observed difference could have occurted just by random chance. 
+- The lower the p-value. the greater the statistical significance of the observed difference.
 - Using a p-value treshold of 0.00001 means we would only get a False Positive once in every 100,000 experiments. 
+- There are 2 types of p-values: one-sided & two-sided
