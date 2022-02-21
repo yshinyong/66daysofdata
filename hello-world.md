@@ -49,3 +49,7 @@ _![image](https://user-images.githubusercontent.com/25703485/154922356-5d818dc6-
 - The lower the p-value. the greater the statistical significance of the observed difference.
 - Using a p-value treshold of 0.00001 means we would only get a False Positive once in every 100,000 experiments. 
 - There are 2 types of p-values: one-sided & two-sided
+- p-value is determined by adding up the probabilities. A p-value is composed of 3 parts:
+i. The probability random chance would result in the observation
+ii. The probability of observing something else that is equally rare
+iii. The probability of observing something rarer or more extreme
