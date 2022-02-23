@@ -58,3 +58,8 @@ iii. The probability of observing something rarer or more extreme
 - p-hacking refers to the misuse analysis techniques and results in being fooled by false positives.
 - TO avoid p-hacking, calculate the p-value for each test and adjust all of the p-values with things like False Discovery Rate to reduce the probability of reporting a False Positive
 - If you have p-values that is close to 0.05, don't just add more data to the observation, instead, use data you have for a Power Analysis to determine the correct sample size.
+
+### DAY 8: STATISTICAL POWER & POWER ANALYSIS 
+- Power is the probability that we will correctly reject the Null Hypothesis. 
+
+
