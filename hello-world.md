@@ -61,5 +61,8 @@ iii. The probability of observing something rarer or more extreme
 
 ### DAY 8: STATISTICAL POWER & POWER ANALYSIS 
 - Power is the probability that we will correctly reject the Null Hypothesis. 
+- **Power Analysis** is a way to determine sample size for the next time we do this experiment.
+- Power is affected 2 factors, i.e. (i) how much overlap there is between 2 distributions we want to identify, and (ii) the sample size, the number of measurements we collect from each group 
+- The larger the overlap between 2 distributions, the larger the sample size needs to be in order to have higher power value.
 
 
