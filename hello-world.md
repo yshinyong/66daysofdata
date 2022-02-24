@@ -65,4 +65,15 @@ iii. The probability of observing something rarer or more extreme
 - Power is affected 2 factors, i.e. (i) how much overlap there is between 2 distributions we want to identify, and (ii) the sample size, the number of measurements we collect from each group 
 - The larger the overlap between 2 distributions, the larger the sample size needs to be in order to have higher power value.
 
+### DAY 9: COVARIANCE
+- When the covariance is positive, it tells us the relationship of the 2 sets of observations is positive.
+- Covariance is sensitive to the scale of the data, making it difficult to interpret
+- Covariance is 
+- The covariance formula is similar to the formula for correlation and deals with the calculation of data points from the **average/mean value** in a dataset. For example, the covariance between two random variables X and Y can be calculated using the following formula (for population):
+![Image](https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png)
+_Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance/_
+- For a sample covariance, the formula is slightly adjusted:
+![Image](https://cdn.corporatefinanceinstitute.com/assets/covariance2.png)
+- Covariance is a stepping stone of many analyses.
+
 
