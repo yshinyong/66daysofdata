@@ -93,8 +93,8 @@ iii. The probability of observing something rarer or more extreme
   - A and B are certain events.
   - P(A) is the probability of event A occurring.
   - Likewise P(B) is the probability of event B occurring.
-  - [P(A|B)] is the conditional probability of event A occurring given that B has happened.
-  - Similarly [P(B|A)] is the conditional probability of event B occurring given that A has happened.
+  - P(A|B) is the conditional probability of event A occurring given that B has happened.
+  - Similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
 
 ### 2022-02-27 DAY 12: R-SQUARED
 -R2 is the perentage of varition explained by the relationship between 2 variables.
