@@ -69,7 +69,7 @@ iii. The probability of observing something rarer or more extreme
 - When the covariance is positive, it tells us the relationship of the 2 sets of observations is positive.
 - Covariance is sensitive to the scale of the data, making it difficult to interpret
 - The covariance formula is similar to the formula for correlation and deals with the calculation of data points from the **average/mean value** in a dataset. For example, the covariance between two random variables X and Y can be calculated using the following formula (for population):
-<center><img src="https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png" width="600" height="450" ></center>
+<center><img src="https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png" width="500" height="350" ></center>
   _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance/_
 
 - For a sample covariance, the formula is slightly adjusted:
@@ -93,8 +93,8 @@ iii. The probability of observing something rarer or more extreme
   - A and B are certain events.
   - P(A) is the probability of event A occurring.
   - Likewise P(B) is the probability of event B occurring.
-  - P(A|B) is the conditional probability of event A occurring given that B has happened.
-  - Similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
+  - [P(A|B)] is the conditional probability of event A occurring given that B has happened.
+  - Similarly [P(B|A)] is the conditional probability of event B occurring given that A has happened.
 
 ### 2022-02-27 DAY 12: R-SQUARED
 -R2 is the perentage of varition explained by the relationship between 2 variables.
