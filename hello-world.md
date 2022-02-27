@@ -2,14 +2,14 @@
 
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
-### DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
+### 2022-02-16 DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
  ![image](https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png)
 _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)_
 - To draw a normal distribution, we need to know:
   1. The avg measurement - tells where the centre of the curve goes
   2. SD of the measurements - tells how wide the curve should be 
 
-### DAY 2: Population and Estimated Parameters
+### 2022-02-17 DAY 2: Population and Estimated Parameters
 
 - Normal Distribution Exponential Distribution, Gamma Distribution
 ![Image](https://gregorygundersen.com/image/moments/total_mass.png)
@@ -20,7 +20,7 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 - The more data we have, the more confidence we can have in accuracy of the estimates. 
 - **p-values** and **confidence intervals** are often used to quantity the confidence in the estimated parameters 
 
-### DAY 3: Mean, Variance and SD, Statistical Model 
+### 2022-02-18 DAY 3: Mean, Variance and SD, Statistical Model 
 
  - Formula to calculate, not estimate, the population variance. Firt (Estimated mean x̄ - Population mean μ) for each measurement, square then add all the terms. Lastly we get the average of the square difference (by dividing nb of measurements, n) 
  - The population variance gives values in square. 
@@ -32,19 +32,19 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
 
 - What is a model? A model is a way to explore the relationship.
 
-### DAY 4: SAMPLING FROM A DISTRIBUTION, HYPOTHESIS TESTING AND THE NULL HYPOTHESIS 
+### 2022-02-19 DAY 4: SAMPLING FROM A DISTRIBUTION, HYPOTHESIS TESTING AND THE NULL HYPOTHESIS 
 - If there is no preliminary data, there are a lot of possibilities if we were to set hypotheses (e.g. 12h/13h/14h for time to recovers after taking drugs).
 - Null hypothesis is useful when we do not have preliminary data.    
 - The hypotehesis that there is no difference between things is called the **Null Hypothesis**
 
-### DAY 5: ALTERNATIVE HYPOTHESES: MAIN IDEAS
+### 2022-02-20 DAY 5: ALTERNATIVE HYPOTHESES: MAIN IDEAS
 - When we have only 2 groups of data, the **Alternative Hypothesis** is the oppositie of **Null Hypothesis**.
 -![image](https://user-images.githubusercontent.com/25703485/154922065-1a61ad0c-7c33-4111-a195-c2d748517414.png)
 _Image from [Alternative Hypotheses: Main Ideas!!!](https://www.youtube.com/watch?v=5koKb5B_YWo&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=9)_
 - When we have more than 2 groups of data, we have options for Alternative Hypothesis, we have options on how to set alternative hypothesis and decide which statistical test to use. 
 _![image](https://user-images.githubusercontent.com/25703485/154922356-5d818dc6-f04a-4f12-a501-e51a4976cd40.png)_
 
-### DAY 6: P-VALUES: WHAT THEY ARE AND HOW TO INTEPRET THEM, HOW TO CALCULATE P-VALUES 
+### 2022-02-21 DAY 6: P-VALUES: WHAT THEY ARE AND HOW TO INTEPRET THEM, HOW TO CALCULATE P-VALUES 
 - A p-value is a measure of probability that an observed difference could have occurted just by random chance. 
 - The lower the p-value. the greater the statistical significance of the observed difference.
 - Using a p-value treshold of 0.00001 means we would only get a False Positive once in every 100,000 experiments. 
@@ -54,12 +54,12 @@ i. The probability random chance would result in the observation
 ii. The probability of observing something else that is equally rare
 iii. The probability of observing something rarer or more extreme
 
-### DAY 7: P-HACKING: WHAT IT IS AND HOW TO AVOID IT
+### 2022-02-22 DAY 7: P-HACKING: WHAT IT IS AND HOW TO AVOID IT
 - p-hacking refers to the misuse analysis techniques and results in being fooled by false positives.
 - TO avoid p-hacking, calculate the p-value for each test and adjust all of the p-values with things like False Discovery Rate to reduce the probability of reporting a False Positive
 - If you have p-values that is close to 0.05, don't just add more data to the observation, instead, use data you have for a Power Analysis to determine the correct sample size.
 
-### DAY 8: STATISTICAL POWER & POWER ANALYSIS 
+### 2022-02-23 DAY 8: STATISTICAL POWER & POWER ANALYSIS 
 - Power is the probability that we will correctly reject the Null Hypothesis. 
 - **Power Analysis** is a way to determine sample size for the next time we do this experiment.
 - Power is affected 2 factors, i.e. (i) how much overlap there is between 2 distributions we want to identify, and (ii) the sample size, the number of measurements we collect from each group 
@@ -68,7 +68,6 @@ iii. The probability of observing something rarer or more extreme
 ### 2022-02-24 DAY 9: COVARIANCE & CORRELATION
 - When the covariance is positive, it tells us the relationship of the 2 sets of observations is positive.
 - Covariance is sensitive to the scale of the data, making it difficult to interpret
-- Covariance is 
 - The covariance formula is similar to the formula for correlation and deals with the calculation of data points from the **average/mean value** in a dataset. For example, the covariance between two random variables X and Y can be calculated using the following formula (for population):
 
 ![Image](https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png)
@@ -92,26 +91,25 @@ _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/co
 
 ### 2022-02-26 DAY 11: BAYES' THEOROM
 - P(A|B) = [P(B|A) * P(A)] / P(B)
-- where:
-
-A and B are certain events.
-P(A) is the probability of event A occurring.
-likewise P(B) is the probability of event B occurring.
-P(A|B) is the conditional probability of event A occurring given that B has happened.
-similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
+  where:
+  - A and B are certain events.
+  - P(A) is the probability of event A occurring.
+  - Likewise P(B) is the probability of event B occurring.
+  - P(A|B) is the conditional probability of event A occurring given that B has happened.
+  - Similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
 
 ### 2022-02-27 DAY 12: R-SQUARED
 -R2 is the perentage of varition explained by the relatoonship between 2 variables
 
-<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="400" height="200" >
-<img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="400" height="200" >
+<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="300" height="200" >
+<img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="300" height="200" >
 
-- If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data
-- Is statistically significant R2 was 0.01 - we can think that 'who cares if the relationship i significant, it only accounts for 1% of the variation in the data. How about the remainining 99%?
+- If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data'.
+- Is statistically significant R2 was 0.01 - we can think that 'who cares if the relationship is significant, it only accounts for 1% of the variation in the data. How about the remainining 99%?
 - R2 is just the square of R. 
-- For example, 0.9 times 0.9 = 0.81 i.e. the relationhip between 2 variables explain 81% of the variation in the data. 
+- For example, 0.9 times 0.9 = 0.81 i.e. the relationship between 2 variables explain 81% of the variation in the data. 
 - If the statistically significant R was 0.5, i.e. 0.5 * 0.5 = 0.25. Thre relationship accounts for 25% of the variation in the data. 
 - R2 can be easier to interpret than R.
-- R2 does not indicate the direction the correlation because squared numbers are never negative/
+- R2 does not indicate the direction the correlation because squared numbers are never negative.
 
 
