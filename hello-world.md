@@ -103,7 +103,7 @@ similarly P(B|A) is the conditional probability of event B occurring given that 
 ### 2022-02-27 DAY 12: R-SQUARED
 -R2 is the perentage of varition explained by the relatoonship between 2 variables
 
-<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="200" height="400" >
+<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="250" height="200" >
 ![](https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png =250x250)
 
 - If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data
