@@ -3,7 +3,7 @@
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
 ### 2022-02-16 DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
-<center><img src="https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png" width="500" height="450" ></center>
+<center><img src="https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png" width="600" height="450" ></center>
 _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)_
 - To draw a normal distribution, we need to know:
   1. The avg measurement - tells where the centre of the curve goes
