@@ -100,4 +100,18 @@ likewise P(B) is the probability of event B occurring.
 P(A|B) is the conditional probability of event A occurring given that B has happened.
 similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
 
+### 2022-02-27 DAY 12: R-SQUARED
+-R2 is the perentage of varition explained by the relatoonship between 2 variables
+
+![image](https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png)
+![image](https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png)
+
+- If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data
+- Is statistically significant R2 was 0.01 - we can think that 'who cares if the relationship i significant, it only accounts for 1% of the variation in the data. How about the remainining 99%?
+- R2 is just the square of R. 
+- For example, 0.9 times 0.9 = 0.81 i.e. the relationhip between 2 variables explain 81% of the variation in the data. 
+- If the statistically significant R was 0.5, i.e. 0.5 * 0.5 = 0.25. Thre relationship accounts for 25% of the variation in the data. 
+- R2 can be easier to interpret than R.
+- R2 does not indicate the direction the correlation because squared numbers are never negative/
+
 
