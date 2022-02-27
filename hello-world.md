@@ -27,7 +27,7 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
  - Population standard deviation = √population variance
  - We almost never have data to calculate the population variance/SD and always work with smaller samples to perform estimation
  - Estimated population variance: Since we don't know population mean (μ), we use sample mean (x̄). And dividing by n - 1 compensates the fact the we are calcualting difference from the sample mean instead of population mean, otherwise we will consistently underestimate the variance around the population mean, as the difference between data and sample mean are normally smaller than the difference between data and population mean. 
-  ![Image](https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png)
+  <center><img src="https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png" width="500" height="350" ></center>
   _Image from https://medium.com/statistical-guess/sample-variance-cbd0a848acfe_
 
 - What is a model? A model is a way to explore the relationship.
@@ -69,10 +69,8 @@ iii. The probability of observing something rarer or more extreme
 - When the covariance is positive, it tells us the relationship of the 2 sets of observations is positive.
 - Covariance is sensitive to the scale of the data, making it difficult to interpret
 - The covariance formula is similar to the formula for correlation and deals with the calculation of data points from the **average/mean value** in a dataset. For example, the covariance between two random variables X and Y can be calculated using the following formula (for population):
-
-![Image](https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png)
-
-_Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance/_
+<center><img src="https://miro.medium.com/max/1186/0*Wsf4o0CCGLFGY27L.png" width="600" height="450" ></center>
+  _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/covariance/_
 
 - For a sample covariance, the formula is slightly adjusted:
 
@@ -101,8 +99,8 @@ _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/co
 ### 2022-02-27 DAY 12: R-SQUARED
 -R2 is the perentage of varition explained by the relationship between 2 variables.
 
-<center><img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="300" height="250" ></center>
-<center><img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="300" height="250" ></center>
+<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="400" height="350" >
+<img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="400" height="350" >
 
 - If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data'.
 - Is statistically significant R2 was 0.01 - we can think that 'who cares if the relationship is significant, it only accounts for 1% of the variation in the data. How about the remainining 99%?
