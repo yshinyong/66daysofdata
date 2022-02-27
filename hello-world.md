@@ -90,6 +90,14 @@ _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/co
 
 ### 2022-02-25 DAY 10: CONDITIONAL PROBABILITIES 
 
-### 2022-02-26 DAY 11: CONDITIONAL PROBABILITIES 
+### 2022-02-26 DAY 11: BAYES' THEOROM
+- P(A|B) = [P(B|A) * P(A)] / P(B)
+- where:
+
+A and B are certain events.
+P(A) is the probability of event A occurring.
+likewise P(B) is the probability of event B occurring.
+P(A|B) is the conditional probability of event A occurring given that B has happened.
+similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
 
 
