@@ -3,7 +3,7 @@
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
 ### 2022-02-16 DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
- ![image](https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png)
+<center><img src="https://user-images.githubusercontent.com/25703485/154499858-39d05791-718a-492f-a21b-517138a105a5.png" width="400" height="350" ></center>
 _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=3)_
 - To draw a normal distribution, we need to know:
   1. The avg measurement - tells where the centre of the curve goes
@@ -99,10 +99,10 @@ _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/co
   - Similarly P(B|A) is the conditional probability of event B occurring given that A has happened.
 
 ### 2022-02-27 DAY 12: R-SQUARED
--R2 is the perentage of varition explained by the relatoonship between 2 variables
+-R2 is the perentage of varition explained by the relationship between 2 variables.
 
-<img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="300" height="200" >
-<img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="300" height="200" >
+<center><img src="https://user-images.githubusercontent.com/25703485/155865670-32f97d05-622d-4dcd-a6e2-04f590b75520.png" width="300" height="250" ></center>
+<center><img src="https://user-images.githubusercontent.com/25703485/155865690-2f5e5cf9-94ff-498f-a776-402b705837f8.png" width="300" height="250" ></center>
 
 - If statistically significant R2 was 0.9 - we can think that 'the relationship between 2 variables explains 90% of the variation in the data'.
 - Is statistically significant R2 was 0.01 - we can think that 'who cares if the relationship is significant, it only accounts for 1% of the variation in the data. How about the remainining 99%?
