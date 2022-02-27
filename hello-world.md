@@ -88,6 +88,8 @@ _Image from https://corporatefinanceinstitute.com/resources/knowledge/finance/co
 
 ![image](https://user-images.githubusercontent.com/25703485/155543064-fa7ed00c-41c8-433a-9898-8760d57ec57f.png)
 
-- 
+### 2022-02-25 DAY 10: CONDITIONAL PROBABILITIES 
+
+### 2022-02-26 DAY 11: CONDITIONAL PROBABILITIES 
 
 
