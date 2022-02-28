@@ -110,4 +110,10 @@ iii. The probability of observing something rarer or more extreme
 - R2 can be easier to interpret than R.
 - R2 does not indicate the direction the correlation because squared numbers are never negative.
 
-
+### 2022-02-28 DAY 13: THE CENTRAL LIMIT THEOREM, STANDARD DEVIATION VS STANDARD ERROR
+- The standard deviation quantifies the variation within a set of measurements.
+- The standard error quantifies the variation in the means from multiple sets of measurements.
+- The standard deviation of the means is called The Standard Error.
+- <img src="https://user-images.githubusercontent.com/25703485/155971251-111d70af-2c56-403e-a3a5-247b420f132a.png" width="400" height="350" >
+- We can use **bootstrapping** to calculate the standard errors 
+- <img src="https://user-images.githubusercontent.com/25703485/155971457-51f33e1d-a894-44db-be7b-07f6cb4523bd.png" width="400" height="350" >
