@@ -117,3 +117,14 @@ iii. The probability of observing something rarer or more extreme
 - <img src="https://user-images.githubusercontent.com/25703485/155971251-111d70af-2c56-403e-a3a5-247b420f132a.png" width="400" height="350" >
 - We can use **bootstrapping** to calculate the standard errors 
 - <img src="https://user-images.githubusercontent.com/25703485/155971457-51f33e1d-a894-44db-be7b-07f6cb4523bd.png" width="400" height="350" >
+
+### 2022-03-01 DAY 14: CONFIDENCE INTERVALS
+- There are a lof of ways to calculate confidence intervals, bootstrapping is one of them. 
+- A 95% CI means an interval that covers 95% of the means (from multiple bootstrapping)
+- ![image](https://user-images.githubusercontent.com/25703485/156166160-35dda818-490b-42d4-950d-37c153ec534b.png)
+- Because the interval covers 95% of the means, we know that anything outside of it occurs < 5% of the time. 
+- ![image](https://user-images.githubusercontent.com/25703485/156166313-a4df8a34-2eec-4e75-9a51-5455a3d8cc52.png)
+- If the 95% CI do not overlap, we know there is a statistically significant difference in the weights of female and male mice. 
+- If the CI overlap, there is still a chance that the means are significantly different from each other, so you might have to do t-test.
+
+
