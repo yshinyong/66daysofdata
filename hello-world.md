@@ -127,4 +127,13 @@ iii. The probability of observing something rarer or more extreme
 - If the 95% CI do not overlap, we know there is a statistically significant difference in the weights of female and male mice. 
 - If the CI overlap, there is still a chance that the means are significantly different from each other, so you might have to do t-test.
 
-
+### 2022-03-02 DAY 15: BOOTSTRAPPING MAIN IDEAS, USING BOOSTRAPPING TO CALCULATE P-VALUES, SAMPLE SIZE AND EFFECTIVE SAMPLE SIZE, BOX PLOT, LOGS
+- Main basic steps in bootstrapping:
+  i. Make a bootstrapped dataset
+  ii. Calculate something (like mean)
+  iii. Keep track of that calculation
+  iv. Repeat step 1 to 3 a bunch of times. 
+![image](https://user-images.githubusercontent.com/25703485/156372611-7c552def-d2d3-4552-954b-aade2f4718b3.png)
+- Log:
+  - Logs isolate exponents
+  - Use a log scale/axis when talking about fold change. This puts positive and negative fold changes on a symmetric scale. 
