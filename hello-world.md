@@ -137,3 +137,7 @@ iii. The probability of observing something rarer or more extreme
 - Log:
   - Logs isolate exponents
   - Use a log scale/axis when talking about fold change. This puts positive and negative fold changes on a symmetric scale. 
+
+### 2022-03-03 DAY 16: THRESHOLDS FOR SIGNIFICANCE, ONE OR TWO TAILED P-VALUES
+- p-value of 0.05 - always the best to use?
+- If your data are barely correlated/ low r-squared, then the results might not be interesting regardless of the p-value
