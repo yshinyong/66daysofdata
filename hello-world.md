@@ -141,3 +141,12 @@ iii. The probability of observing something rarer or more extreme
 ### 2022-03-03 DAY 16: THRESHOLDS FOR SIGNIFICANCE, ONE OR TWO TAILED P-VALUES
 - p-value of 0.05 - always the best to use?
 - If your data are barely correlated/ low r-squared, then the results might not be interesting regardless of the p-value
+
+### 2022-03-04 DAY 17: BINOMIAL DISTRIBUTION AND TEST, QUANTILES AND PERCENTILES, Q-Q PLOT, QUANTILE NORMALIZATION
+ ![image](https://user-images.githubusercontent.com/25703485/156783668-8fdbccfc-9417-4345-a124-3203a0d0bfd6.png)
+- Quantile-quantile (QQ) plots are used to determine if the data can be approximated by a statistical distributed. For e.g., if you are wondering if your data is normally distributed/ uniform ditributed, you can use QQ plot to check.  
+- ![image](https://user-images.githubusercontent.com/25703485/156785436-34d148e5-9e09-4df5-98f2-de72d0cf9dd5.png)
+- Quantile Normalization: To help us to compare data that has al kinds of noise in it. E.g., quantile normalization is performed when we do microarray experiment. The genes in different samples have different level of expression could be due to biological difference, or technical difference like if you have better lightbulb for one experiment, you would likely to have higher light intensity for certain sample/experiment. 
+- ![image](https://user-images.githubusercontent.com/25703485/156786957-eedcf948-8a27-46d4-ba20-27dc23808f8c.png)
+
+
