@@ -149,4 +149,9 @@ iii. The probability of observing something rarer or more extreme
 - Quantile Normalization: To help us to compare data that has al kinds of noise in it. E.g., quantile normalization is performed when we do microarray experiment. The genes in different samples have different level of expression could be due to biological difference, or technical difference like if you have better lightbulb for one experiment, you would likely to have higher light intensity for certain sample/experiment. 
 - ![image](https://user-images.githubusercontent.com/25703485/156786957-eedcf948-8a27-46d4-ba20-27dc23808f8c.png)
 
+### 2022-03-05 DAY 18: PROBABILITY IS NOT LIKELIHOOD, MAXIMUM LIKELIHOOD
+![image](https://user-images.githubusercontent.com/25703485/156874945-4286a1cd-9980-4b3b-ba4c-9f896d27ae67.png)
+![image](https://user-images.githubusercontent.com/25703485/156875445-d2108756-e017-4cd4-95b7-923f87d279ba.png)
+ 
+
 
