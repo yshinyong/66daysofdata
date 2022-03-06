@@ -153,5 +153,8 @@ iii. The probability of observing something rarer or more extreme
 ![image](https://user-images.githubusercontent.com/25703485/156874945-4286a1cd-9980-4b3b-ba4c-9f896d27ae67.png)
 ![image](https://user-images.githubusercontent.com/25703485/156875445-d2108756-e017-4cd4-95b7-923f87d279ba.png)
  
+### 2022-03-06 DAY 19: WHY DIVIDING BY N UNDERESTIMATES THE VARIANCE
+- The differences between the data and the sample mean tend to be smaller than the differences between data and population mean. 
+![image](https://user-images.githubusercontent.com/25703485/156905911-ea9d9993-8788-461e-b293-9233141b9d67.png)
 
 
