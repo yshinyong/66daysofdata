@@ -157,4 +157,6 @@ iii. The probability of observing something rarer or more extreme
 - The differences between the data and the sample mean tend to be smaller than the differences between data and population mean. 
 ![image](https://user-images.githubusercontent.com/25703485/156905911-ea9d9993-8788-461e-b293-9233141b9d67.png)
 
+### 2022-03-08 DAY 20: MAXIMUM LIKELIHOOD FOR BINOMIAL DISTRIBUTION, MAXIMUM LIKELIHOOD FOR NORMAL DISTRIBUTION
+
 
