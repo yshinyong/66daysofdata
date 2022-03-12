@@ -162,13 +162,6 @@ iii. The probability of observing something rarer or more extreme
 ### 2022-03-12 DAY 21: PYTHON PANDAS
 - Missed a few days of #66daysofdata due to many projects at work :( Taking a break from statistic video. Refreshing all the syntaxs in Python for my use case at work. 
 - Python Equivalent to SQL Rank from Stackoverflow:
-- df['date'] = pd.to_datetime(df['date'])
-- df['rank'] = df.groupby('id')['date'].rank(method='dense').astype(int)
-- print (df)
-   id       date  rank
-0  12 2021-06-01     1
-1  12 2021-06-15     2
-2  12 2021-06-21     3
-3  34 2021-06-05     1
-4  87 2021-06-19     1
-5  53 2021-06-05     1
+  - df['date'] = pd.to_datetime(df['date'])
+  - df['rank'] = df.groupby('id')['date'].rank(method='dense').astype(int)
+  
