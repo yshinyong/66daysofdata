@@ -164,4 +164,11 @@ iii. The probability of observing something rarer or more extreme
 - Python Equivalent to SQL Rank from Stackoverflow:
   - df['date'] = pd.to_datetime(df['date'])
   - df['rank'] = df.groupby('id')['date'].rank(method='dense').astype(int)
-  
+
+### 2022-03-13 DAY 22: PROBABILITY CONCEPTS EXPLAINED: INTRODUCTION
+- **MARGINAL PROBABILITY**: If A is an event, then the marginal probability is the probability of that event occurring, P(A)
+- **JOINT PROBABILITY**: The probability of the intersection of two or more events.If A and B are two events then the joint probability of the two events is written as P(A ∩ B)
+- 'and' rule: When the events are independent from each other, the joint proababilityis the product of the individual marginal probabilities of the event.  P(A ∩ B) = P(A) ✕ P(B).
+- 'or rule': We have to add the individual probabilities and substract the intersection.P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Check the venn diagram of the reference. 
+- **CONDITIONAL PROBABILITY**: The probability that some event(s) occur given that we know other events have already occurred. If A and B are two events then the conditional probability of A occurring given that B has occurred is written as P(A|B). 
+- Reference: https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465
