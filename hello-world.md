@@ -172,3 +172,6 @@ iii. The probability of observing something rarer or more extreme
 - 'or rule': We have to add the individual probabilities and substract the intersection.P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Check the venn diagram of the reference. 
 - **CONDITIONAL PROBABILITY**: The probability that some event(s) occur given that we know other events have already occurred. If A and B are two events then the conditional probability of A occurring given that B has occurred is written as P(A|B). 
 - Reference: https://towardsdatascience.com/probability-concepts-explained-introduction-a7c0316de465
+
+### 2022-03-15 DAY 23: PROBABILITY CONCEPTS EXPLAINED: RULES OF PROBABILITY
+
