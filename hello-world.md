@@ -175,7 +175,7 @@ iii. The probability of observing something rarer or more extreme
 
 ### 2022-03-15 DAY 23: PROBABILITY CONCEPTS EXPLAINED: RULES OF PROBABILITY
 - Rules of Probability (Axioms)
-  i. Axiom 1: The probability of an event is bigger than or equal to 0. The probability of an event is between 0 and 1 (inclusive)
-  ii. Axiom 2 : The probability of at least one of the possible outcomes happening is 1. 
-  iii. Axiom 3: The axiom says if 2 events are mutually exclusive (i.e. the 2 events can’t occur at the same time), then the probability of either of them happening is equal to the sum of the individual probabilities of them happening.
+-  i. Axiom 1: The probability of an event is bigger than or equal to 0. The probability of an event is between 0 and 1 (inclusive)
+-  ii. Axiom 2 : The probability of at least one of the possible outcomes happening is 1. 
+-  iii. Axiom 3: The axiom says if 2 events are mutually exclusive (i.e. the 2 events can’t occur at the same time), then the probability of either of them happening is equal to the sum of the individual probabilities of them happening.
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-rules-of-probability-introduction-part-2-2a9d5a1a9df4
