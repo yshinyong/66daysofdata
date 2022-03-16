@@ -179,3 +179,8 @@ iii. The probability of observing something rarer or more extreme
 -  ii. Axiom 2 : The probability of at least one of the possible outcomes happening is 1. 
 -  iii. Axiom 3: The axiom says if 2 events are mutually exclusive (i.e. the 2 events can’t occur at the same time), then the probability of either of them happening is equal to the sum of the individual probabilities of them happening.
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-rules-of-probability-introduction-part-2-2a9d5a1a9df4
+
+### 2022-03-16 DAY 24: PROBABILITY CONCEPTS EXPLAINED: PROBABILITY DISTRIBUTIONS
+- Probability distribution - a list of all of the possible outcomes of a random variable along with their corresponding probability values. 
+- 
+
