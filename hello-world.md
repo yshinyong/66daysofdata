@@ -180,7 +180,14 @@ iii. The probability of observing something rarer or more extreme
 -  iii. Axiom 3: The axiom says if 2 events are mutually exclusive (i.e. the 2 events can’t occur at the same time), then the probability of either of them happening is equal to the sum of the individual probabilities of them happening.
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-rules-of-probability-introduction-part-2-2a9d5a1a9df4
 
-### 2022-03-16 DAY 24: PROBABILITY CONCEPTS EXPLAINED: PROBABILITY DISTRIBUTIONS
+### 2022-03-16 & 17 DAY 24 & 25: PROBABILITY CONCEPTS EXPLAINED: PROBABILITY DISTRIBUTIONS
 - Probability distribution - a list of all of the possible outcomes of a random variable along with their corresponding probability values. 
-- 
+- Probability mass functions is a probability function to describe a **discrete probability distribution**
+- Example of discrete probability distribution is The Bernoulli distribution, which describes the probability distribution of a process that has 2 possible outcomes. E.g. coin toss - head/tail. Another example of discrete probability distribution is rolling a fair six-sided dice
+- Probabillity density functions is used to describe a **continuous probability distribution**
+- Example of continuous probability distribution: Normal distribution 
+- The output of a probability mass function is a probability
+- The area under curve produced by a probability density function represents a probability. 
+- Parameter is important - wrong paramaters can give results that differ wildly!
+- Reference: https://towardsdatascience.com/probability-concepts-explained-probability-distributions-introduction-part-3-4a5db81858dc
 
