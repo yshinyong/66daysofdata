@@ -191,3 +191,8 @@ iii. The probability of observing something rarer or more extreme
 - Parameter is important - wrong paramaters can give results that differ wildly!
 - Reference: https://towardsdatascience.com/probability-concepts-explained-probability-distributions-introduction-part-3-4a5db81858dc
 
+### 2022-03-19 DAY 26: PROBABILITY CONCEPTS EXPLAINED: MAXIMUM LIKELIHOOD ESTIMATION
+- Maximum likelihood estimation - a method that detemines values for the parameters of a model. 
+- The parameter values are found such that they maximise the likelihood that the process described by the model produced the data that were actually observed.
+- Reference: https://medium.com/towards-data-science/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
+
