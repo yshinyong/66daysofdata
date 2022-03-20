@@ -196,3 +196,6 @@ iii. The probability of observing something rarer or more extreme
 - The parameter values are found such that they maximise the likelihood that the process described by the model produced the data that were actually observed.
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
+### 2022-03-20 DAY 27: PROBABILITY CONCEPTS EXPLAINED: BAYESIAN INFERENCE FOR PARAMETER ESTIMATION
+
+
