@@ -188,7 +188,7 @@ iii. The probability of observing something rarer or more extreme
 - Example of continuous probability distribution: Normal distribution 
 - The output of a probability mass function is a probability
 - The area under curve produced by a probability density function represents a probability. 
-- Parameter is important - wrong paramaters can give results that differ wildly!
+- Parameter is important - wrong parameters can give results that differ wildly!
 - Reference: https://towardsdatascience.com/probability-concepts-explained-probability-distributions-introduction-part-3-4a5db81858dc
 
 ### 2022-03-19 DAY 26: PROBABILITY CONCEPTS EXPLAINED: MAXIMUM LIKELIHOOD ESTIMATION
@@ -196,7 +196,11 @@ iii. The probability of observing something rarer or more extreme
 - The parameter values are found such that they maximise the likelihood that the process described by the model produced the data that were actually observed.
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-maximum-likelihood-estimation-c7b4342fdbb1
 
-### 2022-03-20 & 21 DAY 27 * 28: PROBABILITY CONCEPTS EXPLAINED: BAYESIAN INFERENCE FOR PARAMETER ESTIMATION
+### 2022-03-20 & 21 DAY 27 & 28: PROBABILITY CONCEPTS EXPLAINED: BAYESIAN INFERENCE FOR PARAMETER ESTIMATION
 - Reference: https://medium.com/towards-data-science/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348
 
+### 2022-03-22 & 23 DAY 29 & 30: CANNIBALIZATION STUDY 
+- Working on my cannibalization study and refreshed my knowledge on some syntax:
+- For example, venn diagram - matplotlib's venn2 and venn3 - can draw up to 3 sets only 
+- Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
