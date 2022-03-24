@@ -204,3 +204,6 @@ iii. The probability of observing something rarer or more extreme
 - For example, venn diagram - matplotlib's venn2 and venn3 - can draw up to 3 sets only 
 - Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
+### 2022-03-24 DAY 31: GRADIENT BOOST
+- 
+
