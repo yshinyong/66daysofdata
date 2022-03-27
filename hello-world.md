@@ -205,16 +205,20 @@ iii. The probability of observing something rarer or more extreme
 - Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
 ### 2022-03-24 - 27 DAY 31 - 34: GRADIENT BOOST
-- Gradient boosting is one of the bossting algorithms to minimize bias error. 
-- Gradient bossting can be used for both regression and classification. When it is the regressor, the cost functions is mean square error while when it is classifier, the cost functions is log loss. 
+- Gradient boosting is one of the boosting algorithms to minimize bias error. 
+- Gradient bossting can be used for both regression and classification. When it is the regressor, the cost function is mean square error while when it is classifier, the cost function is Log loss. 
 - When we use Gradient Boost for Regression
-  - We start with a leaf that is the average value of the variable that we want to Predict (e.g. weight as target variable)
+  - We start with a leaf that is the average value of the variable that we want to predict (e.g. weight as target variable)
   - Then we add a tree based on the **Residuals** (not weight), which is the difference between Observed and Predicted values 
   - Then we scale the tree's contribution to the final Prediction with a **learning rate**
   - Then add another tree based on new residuals and keep adding trees based on errors made by previous tree.
   - In practice, people often set the max number of leaves to be 8 - 32.
-
+  - Steps:
+    - Input: data & a differentiable Loss Function (1/2 * (observed - predicted)^2 is one te most commonly used loss function for regression with Gradient Boost). When we remove 1/2, it's similar to linear regression. 
+    - Initialize the model with a constant value  
+    
+    
 - References: 
-  - Statquest
+  - StatQuest
   - https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/
 
