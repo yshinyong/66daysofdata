@@ -204,7 +204,7 @@ iii. The probability of observing something rarer or more extreme
 - For example, venn diagram - matplotlib's venn2 and venn3 - can draw up to 3 sets only 
 - Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
-### 2022-03-24 - 27 DAY 31 - 34: GRADIENT BOOST
+### 2022-03-24 - 28 DAY 31 - 35: GRADIENT BOOST
 - Gradient boosting is one of the boosting algorithms to minimize bias error. 
 - Gradient bossting can be used for both regression and classification. When it is the regressor, the cost function is mean square error while when it is classifier, the cost function is Log loss. 
 - When we use Gradient Boost for Regression
