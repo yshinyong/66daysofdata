@@ -204,7 +204,7 @@ iii. The probability of observing something rarer or more extreme
 - For example, venn diagram - matplotlib's venn2 and venn3 - can draw up to 3 sets only 
 - Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
-### 2022-03-24 - 28 DAY 31 - 35: GRADIENT BOOST
+### 2022-03-24 - 29 DAY 31 - 36: GRADIENT BOOST
 - Gradient boosting is one of the boosting algorithms to minimize bias error. 
 - Gradient bossting can be used for both regression and classification. When it is the regressor, the cost function is mean square error while when it is classifier, the cost function is Log loss. 
 - When we use Gradient Boost for Regression
@@ -215,7 +215,12 @@ iii. The probability of observing something rarer or more extreme
   - In practice, people often set the max number of leaves to be 8 - 32.
   - Steps:
     - Input: data & a differentiable Loss Function (1/2 * (observed - predicted)^2 is one te most commonly used loss function for regression with Gradient Boost). When we remove 1/2, it's similar to linear regression. 
-    - Initialize the model with a constant value  
+    - Step 1: Initialize the model with a constant value  
+    - Step 2: For m = 1 to M (m means nb of tree, and M means max nb of tree)
+      -  a. Calculate new residuals for the new predictions
+      -  b. Create a new tree
+      -  c. Calculate output values 
+      -  d. Make new predictions
     
     
 - References: 
