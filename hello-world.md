@@ -204,7 +204,7 @@ iii. The probability of observing something rarer or more extreme
 - For example, venn diagram - matplotlib's venn2 and venn3 - can draw up to 3 sets only 
 - Reference: https://stackoverflow.com/questions/19841535/python-matplotlib-venn-diagram
 
-### 2022-03-24 - 31 DAY 31 - 38: GRADIENT BOOST
+### 2022-03-24 - 2022-04-02 DAY 31 - 38: GRADIENT BOOST 
 - Gradient boosting is one of the boosting algorithms to minimize bias error. 
 - Gradient bossting can be used for both regression and classification. When it is the regressor, the cost function is mean square error while when it is classifier, the cost function is Log loss. 
 - When we use Gradient Boost for Regression
@@ -221,9 +221,29 @@ iii. The probability of observing something rarer or more extreme
       -  b. Create a new tree
       -  c. Calculate output values 
       -  d. Make new predictions
-    
-    
-- References: 
-  - StatQuest
-  - https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/
+  - References: 
+    - StatQuest
+    - https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/
+
+
+### 2022-04-03 DAY 39: BASIC EMSEMBLE LEARNING
+  - 2 most popular ensemble methods are **bagging** and **boosting**. 
+      i. Bagging: Train a bunch of individual models in *parallel*. Each model is trained by a random subset of data
+        - Example: Random Forest- select random subsets from training data, train _n_ decision trees, each individual tree predicts the records in test data indepedently. Then make final prediction. RF uses the class with the majority vote as final prediction. 
+      ii. Boosting: Train a bunch of individual models in *sequential*. Each  model learns from mistakes made by the previous model. 
+        - Example: AdaBoost (adaptive boosting). 
+          - Step 0 Initialize the weights of data points. 
+          - Step 1: Train the decision tree 
+          - Step 2: Caluclate the weighted error rate.
+          - Step 3: Calculate the decision tree's weight in the ensemble 
+          - Step 4: Update weights of wrongly classified points 
+          - Step 5: Repeat Step 1 (until nb trees we set to train)
+          - Step 6: Make final prediction 
+        - Example: Gradient boosting
+          - Gradient boosting learns from the mistake - residual error directly, rather than update the weights of data points. 
+      
+  - Reference:
+    - https://medium.com/towards-data-science/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725
+ 
+ 
 
