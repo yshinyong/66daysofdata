@@ -246,4 +246,15 @@ iii. The probability of observing something rarer or more extreme
     - https://medium.com/towards-data-science/basic-ensemble-learning-random-forest-adaboost-gradient-boosting-step-by-step-explained-95d49d1e2725
  
  
+### 2022-04-04 - 2022-04-05 DAY 40 - 41: REGRESSION METRIC
+- MSPE, MSAE, R square, adjusted R square
+- Root mean square error: sample standard deviation of the difference between predicted and observed values (called residues)
+- MAE: Average of the absolute difference between predicted and observed values  
+- MAE takes the average of the offsets directly, RMSE penalizes the higher difference between more than MAE
+- Adjusted R2 vs R:
+  - Adjusted R² will consider the marginal improvement added by an additional term in the model. It will increase if you add the useful terms and it will decrease if you add less useful predictors. However, R² increases with increasing terms even though the model is not actually improving.
+- References:
+  - https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4
+  - https://medium.com/towards-data-science/regression-an-explanation-of-regression-metrics-and-what-can-go-wrong-a39a9793d914
+
 
