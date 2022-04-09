@@ -261,5 +261,6 @@ iii. The probability of observing something rarer or more extreme
 - I am doing member analysis for my day job. Read about RFM.
 - Reference: https://medium.com/marketingdatascience/%E5%B8%B8%E8%B2%B4%E5%AE%A2-%E6%96%B0%E5%AE%A2-%E8%AE%93rfm%E6%A8%A1%E5%9E%8B%E7%B0%A1%E7%B0%A1%E5%96%AE%E5%96%AE%E8%A7%A3%E9%87%8B%E4%B8%80%E5%88%87-%E9%99%84%E5%AF%A6%E7%8F%BE%E7%A8%8B%E5%BC%8F%E7%A2%BC-cd7f45fb3e30
  
+### 2022-04-09 DAY 43: COVARIANCE, CORRELATION, R-SQUARE
 
 
