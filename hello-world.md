@@ -263,4 +263,13 @@ iii. The probability of observing something rarer or more extreme
  
 ### 2022-04-09 DAY 43: COVARIANCE, CORRELATION, R-SQUARE
 
+### 2022-04-10 DAY 44: R-SQUARED VS ADJUSTED R-SQUARE
+- R SQUARED, A.K.A coefficient determination, define the degree to which the variance in the dependence variable (target) can be explained by the independent variable (features).
+- R squared is calculated by dividing the sum of squares of residuals from the regression models by the total sum of squares of errors from the average model and then subtract it from 1. 
+- Adjusted R squared - penalize for adding features which are not useful for predicting the target
+- If R2 increases significantly, then the adjusted r-squared increases.
+- Id there is no significant change in R2, then the adjusted R2 would decrease. 
+- Reference: https://medium.com/analytics-vidhya/r-squared-vs-adjusted-r-squared-a3ebc565677b
+
+
 
