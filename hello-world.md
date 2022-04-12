@@ -271,5 +271,10 @@ iii. The probability of observing something rarer or more extreme
 - Id there is no significant change in R2, then the adjusted R2 would decrease. 
 - Reference: https://medium.com/analytics-vidhya/r-squared-vs-adjusted-r-squared-a3ebc565677b
 
+### 2022-04-11 DAY 45: ML & DATA STORYTELLING
+1. https://towardsdatascience.com/5-data-storytelling-tips-for-creating-more-persuasive-charts-and-graphs-150f3544b4e8
+2. https://towardsdatascience.com/data-storytelling-improve-insight-to-action-conversion-for-a-greater-real-world-impact-b94e1827fa01
+3. https://medium.com/towards-data-science/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f
+
 
 
