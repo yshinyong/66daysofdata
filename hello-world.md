@@ -276,5 +276,9 @@ iii. The probability of observing something rarer or more extreme
 2. https://towardsdatascience.com/data-storytelling-improve-insight-to-action-conversion-for-a-greater-real-world-impact-b94e1827fa01
 3. https://medium.com/towards-data-science/all-machine-learning-algorithms-you-should-know-in-2022-db5b4ccdf32f
 
+### 2022-04-19 & 20 DAY 46-47: FITTING A LINE TO DATA, MUTIPLE LINEAR REGRESSION
 
+### 2022-04-21 DAY 48: POLYNOMIAL REGRESSION
+- Reference: https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/#:~:text=Polynomial%20Regression%20is%20a%20form%20of%20Linear%20regression%20known%20as,also%20badly%20affect%20the%20performance.
+- 
 
