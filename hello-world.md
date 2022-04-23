@@ -280,5 +280,10 @@ iii. The probability of observing something rarer or more extreme
 
 ### 2022-04-21 DAY 48: POLYNOMIAL REGRESSION
 - Reference: https://www.analyticsvidhya.com/blog/2021/07/all-you-need-to-know-about-polynomial-regression/#:~:text=Polynomial%20Regression%20is%20a%20form%20of%20Linear%20regression%20known%20as,also%20badly%20affect%20the%20performance.
+
+### 2022-04-23 DAY 49: WHAT IS THE ASSUMPTION OF LINEARITY IN LINEAR REGRESSION 
+- We can check for linearity by evaluating a Residuals vs Fitted plot. X values are the fitted values from our linear model, and y values are the residuals for the fitted values. 
+- 
+- Reference: https://medium.com/the-data-base/what-is-the-assumption-of-linearity-in-linear-regression-3ed67ad8ef93
 - 
 
