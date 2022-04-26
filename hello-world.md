@@ -283,7 +283,8 @@ iii. The probability of observing something rarer or more extreme
 
 ### 2022-04-23 DAY 49: WHAT IS THE ASSUMPTION OF LINEARITY IN LINEAR REGRESSION 
 - We can check for linearity by evaluating a Residuals vs Fitted plot. X values are the fitted values from our linear model, and y values are the residuals for the fitted values. 
-- 
 - Reference: https://medium.com/the-data-base/what-is-the-assumption-of-linearity-in-linear-regression-3ed67ad8ef93
-- 
+
+### 2022-04-26 DAY 50: DISTRIBUTION
+https://towardsdatascience.com/econometrics-is-the-original-data-science-6725d3f0d843
 
