@@ -288,8 +288,9 @@ iii. The probability of observing something rarer or more extreme
 ### 2022-04-26 DAY 50: DISTRIBUTION
 https://towardsdatascience.com/econometrics-is-the-original-data-science-6725d3f0d843
 
-### 2022-04-27 DAY 51: DISTRIBUTION
+### 2022-04-27 & 28 DAY 51 & 52: VISUALIZE THE BUSINESS VALUE OF PREDICTIVE MODELS  
 - 4 plots - cumulative gains, cumulative lift, response and cumulative response
+- Gains plot 
 https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predictive-models-21c6bc8132c
 
 
