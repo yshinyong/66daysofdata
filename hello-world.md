@@ -267,7 +267,7 @@ iii. The probability of observing something rarer or more extreme
 - R SQUARED, A.K.A coefficient determination, define the degree to which the variance in the dependence variable (target) can be explained by the independent variable (features).
 - R squared is calculated by dividing the sum of squares of residuals from the regression models by the total sum of squares of errors from the average model and then subtract it from 1. 
 - Adjusted R squared - penalize for adding features which are not useful for predicting the target
-- If R2 increases significantly, then the adjusted r-squared increases.
+- If R2 increases sinificantly, then the adjusted r-squared increases.
 - Id there is no significant change in R2, then the adjusted R2 would decrease. 
 - Reference: https://medium.com/analytics-vidhya/r-squared-vs-adjusted-r-squared-a3ebc565677b
 
@@ -295,4 +295,22 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
 
 ## 2022-05-03 DAY 53: DATA INSPIRED/DATA DRIVEN?
 - Recommendation from the article: setting your decision criteria in advanced
-Reference: https://hackernoon.com/data-inspired-5c78db3999b2
+- Reference: https://hackernoon.com/data-inspired-5c78db3999b2
+
+## 2022-05-04 DAY 54: GA4 VS UNIVERSAL ANALYTICS
+- Universal Analytics (GA3) will be discontinued from 1st July 2023
+- GA3 is based on sessions & pageviews while GA4 is based one events & parameters.
+- A session is a combination of page views, events, transactions or more by 1 user within a given timeframe. It's like a container of actions taken by a user. While GA4 is not limited by time. It doesn't create new sessions for source changes mid-session - the session count might be lower
+- GA4 does not have bounce rate - New metric: engagement rate
+- IP anonymisation - GA4, IPs are automatically anonymised. 
+- Landing page reports - we can find out how many times the 'session start event' is triggered on a particular page. 
+- App & site monitoring - cross platform 
+- GA4 is natively connected to BigQuery 
+- GA4 data expires after 14 months
+- Reference: https://www.ruleranalytics.com/blog/insight/google-analytics-4/
+
+## 2022-05-05 DAY 55: A/B TESTING
+- Reference: https://medium.com/towards-data-science/typical-9-step-a-b-test-workflow-for-data-scientists-in-2022-d672c9a0d658
+
+- 
+
