@@ -9,7 +9,7 @@ _Image from [The Normal Distribution, Clearly Explained!!!](https://www.youtube.
   1. The avg measurement - tells where the centre of the curve goes
   2. SD of the measurements - tells how wide the curve should be 
 
-### 2022-02-17 DAY 2: Population and Estimated Parameters
+### 2022-02-17 DAY 2: Population and Estimated Parameters 
 
 - Normal Distribution Exponential Distribution, Gamma Distribution
 ![Image](https://gregorygundersen.com/image/moments/total_mass.png)
@@ -293,4 +293,6 @@ https://towardsdatascience.com/econometrics-is-the-original-data-science-6725d3f
 - Gains plot 
 https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predictive-models-21c6bc8132c
 
-
+## 2022-05-03 DAY 53: DATA INSPIRED/DATA DRIVEN?
+- Recommendation from the article: setting your decision criteria in advanced
+Reference: https://hackernoon.com/data-inspired-5c78db3999b2
