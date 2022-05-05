@@ -310,7 +310,19 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
 - Reference: https://www.ruleranalytics.com/blog/insight/google-analytics-4/
 
 ## 2022-05-05 DAY 55: A/B TESTING
+- Before the launch of experiment:
+  1. Think about the product & talk with PM: Evaluate the feasibility and IMPACT. Ask questions like what are the hypothesis, can we find calculable metrics to test, what's the risk
+  3. Design the experiment: (i) what are the evaluation metrices - better to have lower variance and sensitive to changes. (ii) Unit of Diversion - randomized based on session or user? (iii) Min required sample (iv) experiment duration & traffic portion (v) experiment layer & type 
+  4. A/A variation: A/A variation is the difference in key metrics between control group and another control group. There should be no statistically significantly differences between the two.
+
+- During the experiment:
+  5. Check the invariant metrics & experiment set-up
+  6. Monitor key evaluation metrices
+
+- After the end of the experiment:
+  7. Check p-values, magnitudes of difference, minimum detectable effects & dive deeper when surprise
+  8. Formulate product recommendations
+  9. Write report
 - Reference: https://medium.com/towards-data-science/typical-9-step-a-b-test-workflow-for-data-scientists-in-2022-d672c9a0d658
 
-- 
 
