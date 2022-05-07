@@ -293,11 +293,11 @@ https://towardsdatascience.com/econometrics-is-the-original-data-science-6725d3f
 - Gains plot 
 https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predictive-models-21c6bc8132c
 
-## 2022-05-03 DAY 53: DATA INSPIRED/DATA DRIVEN?
+### 2022-05-03 DAY 53: DATA INSPIRED/DATA DRIVEN?
 - Recommendation from the article: setting your decision criteria in advanced
 - Reference: https://hackernoon.com/data-inspired-5c78db3999b2
 
-## 2022-05-04 DAY 54: GA4 VS UNIVERSAL ANALYTICS
+### 2022-05-04 DAY 54: GA4 VS UNIVERSAL ANALYTICS
 - Universal Analytics (GA3) will be discontinued from 1st July 2023
 - GA3 is based on sessions & pageviews while GA4 is based one events & parameters.
 - A session is a combination of page views, events, transactions or more by 1 user within a given timeframe. It's like a container of actions taken by a user. While GA4 is not limited by time. It doesn't create new sessions for source changes mid-session - the session count might be lower
@@ -309,7 +309,7 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
 - GA4 data expires after 14 months
 - Reference: https://www.ruleranalytics.com/blog/insight/google-analytics-4/
 
-## 2022-05-05 DAY 55: A/B TESTING
+### 2022-05-05 DAY 55: A/B TESTING
 - Before the launch of experiment:
   1. Think about the product & talk with PM: Evaluate the feasibility and IMPACT. Ask questions like what are the hypothesis, can we find calculable metrics to test, what's the risk
   3. Design the experiment: (i) what are the evaluation metrices - better to have lower variance and sensitive to changes. (ii) Unit of Diversion - randomized based on session or user? (iii) Min required sample (iv) experiment duration & traffic portion (v) experiment layer & type 
@@ -324,5 +324,11 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
   8. Formulate product recommendations
   9. Write report
 - Reference: https://medium.com/towards-data-science/typical-9-step-a-b-test-workflow-for-data-scientists-in-2022-d672c9a0d658
+
+### 2022-05-07 DAY 57: REGULARIZATION 
+- Lasso (L1) REGRESSION & Ridge Regression - quite similar
+![image](https://user-images.githubusercontent.com/25703485/167258650-66ece07f-38ae-4a4a-b7b7-ee6cb3eeaf7f.png)
+- Lasso regression can exclude useful variables - a little better than Ridge at reducing the variance in models that contains many useless variables. Ridge regression tends to do a little better when most variables are useful
+- Reference: Statquest
 
 
