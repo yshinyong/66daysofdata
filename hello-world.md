@@ -325,10 +325,11 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
   9. Write report
 - Reference: https://medium.com/towards-data-science/typical-9-step-a-b-test-workflow-for-data-scientists-in-2022-d672c9a0d658
 
-### 2022-05-07 DAY 57: REGULARIZATION 
+### 2022-05-07-09 DAY 57-59: REGULARIZATION 
 - Lasso (L1) REGRESSION & Ridge Regression - quite similar
 ![image](https://user-images.githubusercontent.com/25703485/167258650-66ece07f-38ae-4a4a-b7b7-ee6cb3eeaf7f.png)
 - Lasso regression can exclude useful variables - a little better than Ridge at reducing the variance in models that contains many useless variables. Ridge regression tends to do a little better when most variables are useful
 - Reference: Statquest
+
 
 
