@@ -331,5 +331,8 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
 - Lasso regression can exclude useful variables - a little better than Ridge at reducing the variance in models that contains many useless variables. Ridge regression tends to do a little better when most variables are useful
 - Reference: Statquest
 
+### 2022-05-19 - 21 DAY 60 - 62: WEB ANALYTICS
+- Learned new tool for work - Contentsquare 
+
 
 
