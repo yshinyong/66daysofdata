@@ -334,5 +334,7 @@ https://medium.com/broadhorizon-cmotions/visualise-the-business-value-of-predict
 ### 2022-05-19 - 21 DAY 60 - 62: WEB ANALYTICS
 - Learned new tool for work - Contentsquare 
 
-
-
+### 2022-07-15 FORECAST
+- Back testing 
+- Data drift 
+- Reference: Hands-on time series analysis, open source, R, MLOps - The Data Scientist Show 
