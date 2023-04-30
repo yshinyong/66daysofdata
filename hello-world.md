@@ -1,5 +1,7 @@
 # 66 Days of Data
 
+## Starting #66daysofdata 2023 in https://yshinyong.github.io/66daysofdata/hello-world2
+
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
 ### 2022-02-16 DAY 1: Histograms, The Main Ideas behind Probability Distributions, The Normal Distribution
