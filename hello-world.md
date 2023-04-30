@@ -1,6 +1,6 @@
 # 66 Days of Data
 
-## Starting #66daysofdata 2023 in https://yshinyong.github.io/66daysofdata/hello-world2
+## Starting #66daysofdata 2023 here (https://yshinyong.github.io/66daysofdata/hello-world2)
 
 ## [Statistics Fundamentals](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) 
 
